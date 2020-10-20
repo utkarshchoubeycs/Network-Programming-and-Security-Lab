@@ -15,4 +15,4 @@ cc client.c -o cli
 
 Client Server communication Established!!
 
-![alt text](https://github.com/utkarshchoubeycs/Network-Programming-and-Security-Lab/Prog1/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/utkarshchoubeycs/Network-Programming-and-Security-Lab/Prog1/blob/Prog1-SS.png?raw=true)
